@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Regressione Lineare</string>
+    <string name="title_activity_risultati">RisultatiActivity</string>
+</resources>
